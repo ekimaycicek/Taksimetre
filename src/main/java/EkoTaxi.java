@@ -16,7 +16,6 @@ public class EkoTaxi {
 
 
 
-
     }
 
     public static double calculateFee(double distance) {
