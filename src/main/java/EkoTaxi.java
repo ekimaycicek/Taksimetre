@@ -13,6 +13,7 @@ public class EkoTaxi {
         System.out.println("Total Fee: " + totalFee + " TL");
 
 
+
     }
 
     public static double calculateFee(double distance) {
